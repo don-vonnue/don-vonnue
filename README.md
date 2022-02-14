@@ -7,3 +7,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donjude-eng&show_icons=true&theme=radical)
 
+![Don Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=donjude-eng&count_private=true,issues&show_icons=true&theme=default)
+
