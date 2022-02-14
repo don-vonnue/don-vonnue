@@ -69,6 +69,6 @@
 ![don-jude](https://github-readme-stats.vercel.app/api?username=donjude-eng&count_private=true)
 
 
-![donjude-eng](https://github-readme-streak-stats.herokuapp.com/?user=donjude-eng&theme=light)
+![donjude-eng](https://github-readme-streak-stats.herokuapp.com/?user=donjude-eng&theme=graywhite)
 
 
