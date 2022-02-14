@@ -55,7 +55,6 @@
 
 ![](https://komarev.com/ghpvc/?donjude-eng)
 
-![donjude-eng](https://github-readme-streak-stats.herokuapp.com/?user=donjude-eng&theme=light)
 
  
  [![donjude-eng](https://github-readme-streak-stats.herokuapp.com/?user=donjude-eng&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=j/k)](https://git.io/streak-stats)
@@ -68,4 +67,8 @@
 
 
 ![don-jude](https://github-readme-stats.vercel.app/api?username=donjude-eng&count_private=true)
+
+
+![donjude-eng](https://github-readme-streak-stats.herokuapp.com/?user=donjude-eng&theme=light)
+
 
